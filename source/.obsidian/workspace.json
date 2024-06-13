@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "cc43dfd38b265e77",
+    "type": "split",
+    "children": [
+      {
+        "id": "64318321f2fb2563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c75bc90d56e23c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_personal/开发阅读清单/计算机底层原理读书清单.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "019425d5a5828688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_personal/开发阅读清单/Web开发读书（视频）清单.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be12b4d005bb9ec9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bde21b5d71e3ff18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e72155105cd0b6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82f4b0f07aa6572d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "vue-tsc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a459d04e767ae713",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d00a3b6c16720fbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7c627b5786fdc36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47bc4b7476bfe15d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_personal/开发阅读清单/Web开发读书（视频）清单.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfd1c2c2bf675f86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_personal/开发阅读清单/Web开发读书（视频）清单.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f3f71e3203c83b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c407c2a5ca67d50a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_personal/开发阅读清单/Web开发读书（视频）清单.md"
+              }
+            }
+          },
+          {
+            "id": "345845489c6698db",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "pkmer:Open Pkmer Market": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "019425d5a5828688",
+  "lastOpenFiles": [
+    "_personal/开发阅读清单/计算机底层原理读书清单.md",
+    "_personal/开发阅读清单/Web开发读书（视频）清单.md",
+    "_personal/开发阅读清单/Web开发读书（视频）清单.md",
+    "_personal/开发阅读清单/attachments/Pasted image 20240521165150.png",
+    "_personal/开发阅读清单/attachments",
+    "_personal/开发阅读清单",
+    "_personal/attachments/Pasted image 20240521154746.png",
+    "_personal/attachments",
+    "_posts/Web前端开发/Vue.js/环境搭建、升级与配置/vue-demi使用教程（基于Vue3+Vite+TypeScript+pnmp).md",
+    "_posts/Node.js后端开发/Node.js基础与进阶/构建工具篇/Corepack使用教程.md",
+    "_personal/技术博客搭建/Obsidian使用教程.md",
+    "_posts/Node.js后端开发/Node.js/npm与Yarn/Yarn常用命令.md",
+    "_posts/Node.js后端开发/Node.js基础与进阶/构建工具篇",
+    "_posts/Node.js后端开发/Node.js基础与进阶",
+    "_posts/Web前端开发/HTML与CSS/CSS工具与框架/Tailwind CSS使用教程.md",
+    "_posts/Web前端开发/Vue.js/环境搭建、升级与配置/Vue_CLI_v4.5项目引入TypeScript.md",
+    "_posts/Web前端开发/HTML与CSS/CSS工具与框架",
+    "_posts/Web前端开发/Vue.js/环境搭建、升级与配置/vue-demi使用教程.md",
+    "_posts/产品设计与运营/Axure核心知识梳理.md",
+    "_posts/Web前端开发/开发规范与约束/Vue代码规范【推荐】.md",
+    "_posts/Web前端开发/开发规范与约束/JavaScript代码风格约束.md",
+    "_personal/实战待整理笔记清单.md",
+    "_personal/租房小程序全栈开发实录/需求、功能与数据库设计/数据库字典.md",
+    "_personal/租房小程序全栈开发实录/需求、功能与数据库设计/项目功能与页面组成.md",
+    "_personal/租房小程序全栈开发实录/需求、功能与数据库设计/产品需求与结构.emmx",
+    "_personal/租房小程序全栈开发实录/需求、功能与数据库设计/产品需求与结构.emmx.NEhdlz",
+    "_posts/Web前端开发/Vue.js/实战案例/Vue项目中如何实现全局验证+弹窗功能.md",
+    "_personal/技术博客搭建/Hexo使用教程.md",
+    "_personal/实战问题（临时）记录.md",
+    "_posts/Web前端开发/Vue.js/环境搭建、升级与配置/Vue 项目中使用 ESLint 并兼顾 TypeScript.md",
+    "_posts/Web前端开发/Vue.js/环境搭建、升级与配置/Vue2老项目升级至Vue-CLI-5.md",
+    "_posts/Web前端开发/Vue.js/环境搭建、升级与配置/attachments/Pasted image 20240510120715.png",
+    "_posts/Web前端开发/Vue.js/环境搭建、升级与配置/attachments",
+    "_posts/开发与管理工具/抓包工具Fiddler使用教程.md",
+    "_posts/开发与管理工具/Git与Github/Git命令式教程（老手回顾）.md",
+    "_posts/开发与管理工具",
+    "_posts/Web前端开发/移动端/微信小程序与 unp-app/微信小程序开发常见问题与解决办法.md",
+    "_posts/Web前端开发/移动端/微信小程序与 unp-app/微信小程序中的开发限制.md",
+    "_posts/Web前端开发/JavaScript/Promise异步编程/常见问题与解决方案.md",
+    "开发与管理工具/Git与Github/attachments/image-20230906224527351.png",
+    "Pasted image 20240425095008.png",
+    "个人备忘录/attachments/Pasted image 20240425095241.png",
+    "Pasted image 20240425095058.png",
+    "Pasted image 20240425095054.png",
+    "Pasted image 20240425095009.png",
+    "个人备忘录/assets/image-20230712110426253.png",
+    "开发与管理工具/未命名.canvas"
+  ]
+}
